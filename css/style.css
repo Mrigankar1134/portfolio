@@ -126,6 +126,9 @@ hr{
     cursor: pointer;
     text-align: center;
     margin: 20px;
+    margin: 29px;
+    left: 642px;
+    position: absolute;
  }
  
  .btn:hover {
@@ -140,4 +143,9 @@ hr{
     -moz-border-radius: 10px;
     border-radius: 10px;
     text-decoration: none;
+    position: absolute;
+ }
+ .contact-me{
+    margin: 120px;
+    padding: 10px;
  }
